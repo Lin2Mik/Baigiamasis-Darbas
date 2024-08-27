@@ -1,0 +1,577 @@
+,Pavadinimas,Ketvirtis,Vertė
+0,Elektros energijos gamyba (Neto),2012-Q1,1.42
+1,Šiluminės elektrinės,2012-Q1,0.969
+2,Kruonio HAE,2012-Q1,0.131
+3,Hidroelektrinės,2012-Q1,0.127
+4,Vėjo elektrinės,2012-Q1,0.149
+5,Kiti atsinaujinantys energijos ištekliai,2012-Q1,0.04
+6,"     Elektrinės, kūrenamos biomase    ",2012-Q1,0.04
+7,"     Elektrinės, kūrenamos biodujomis",2012-Q1,0.0
+8,     Saulės energijos elektrinės,2012-Q1,0.0
+9,     Atliekų deginimo elektrinės,2012-Q1,0.0
+10,Baterijų technologijos,2012-Q1,0.0
+11,Komercinis sistemos balansas (-Importas/+eksportas),2012-Q1,-1.628
+12,Elektros energijos gamyba (Neto),2012-Q2,0.789
+13,Šiluminės elektrinės,2012-Q2,0.414
+14,Kruonio HAE,2012-Q2,0.113
+15,Hidroelektrinės,2012-Q2,0.122
+16,Vėjo elektrinės,2012-Q2,0.103
+17,Kiti atsinaujinantys energijos ištekliai,2012-Q2,0.042
+18,"     Elektrinės, kūrenamos biomase    ",2012-Q2,0.042
+19,"     Elektrinės, kūrenamos biodujomis",2012-Q2,0.0
+20,     Saulės energijos elektrinės,2012-Q2,0.001
+21,     Atliekų deginimo elektrinės,2012-Q2,0.0
+22,Baterijų technologijos,2012-Q2,0.0
+23,Komercinis sistemos balansas (-Importas/+eksportas),2012-Q2,-1.751
+24,Elektros energijos gamyba (Neto),2012-Q3,1.268
+25,Šiluminės elektrinės,2012-Q3,0.908
+26,Kruonio HAE,2012-Q3,0.129
+27,Hidroelektrinės,2012-Q3,0.064
+28,Vėjo elektrinės,2012-Q3,0.113
+29,Kiti atsinaujinantys energijos ištekliai,2012-Q3,0.054
+30,"     Elektrinės, kūrenamos biomase    ",2012-Q3,0.053
+31,"     Elektrinės, kūrenamos biodujomis",2012-Q3,0.0
+32,     Saulės energijos elektrinės,2012-Q3,0.001
+33,     Atliekų deginimo elektrinės,2012-Q3,0.0
+34,Baterijų technologijos,2012-Q3,0.0
+35,Komercinis sistemos balansas (-Importas/+eksportas),2012-Q3,-1.429
+36,Elektros energijos gamyba (Neto),2012-Q4,1.229
+37,Šiluminės elektrinės,2012-Q4,0.745
+38,Kruonio HAE,2012-Q4,0.141
+39,Hidroelektrinės,2012-Q4,0.108
+40,Vėjo elektrinės,2012-Q4,0.173
+41,Kiti atsinaujinantys energijos ištekliai,2012-Q4,0.062
+42,"     Elektrinės, kūrenamos biomase    ",2012-Q4,0.061
+43,"     Elektrinės, kūrenamos biodujomis",2012-Q4,0.0
+44,     Saulės energijos elektrinės,2012-Q4,0.001
+45,     Atliekų deginimo elektrinės,2012-Q4,0.0
+46,Baterijų technologijos,2012-Q4,0.0
+47,Komercinis sistemos balansas (-Importas/+eksportas),2012-Q4,-1.811
+48,Elektros energijos gamyba (Neto),2013-Q1,1.241
+49,Šiluminės elektrinės,2013-Q1,0.757
+50,Kruonio HAE,2013-Q1,0.126
+51,Hidroelektrinės,2013-Q1,0.133
+52,Vėjo elektrinės,2013-Q1,0.153
+53,Kiti atsinaujinantys energijos ištekliai,2013-Q1,0.071
+54,"     Elektrinės, kūrenamos biomase    ",2013-Q1,0.068
+55,"     Elektrinės, kūrenamos biodujomis",2013-Q1,0.0
+56,     Saulės energijos elektrinės,2013-Q1,0.003
+57,     Atliekų deginimo elektrinės,2013-Q1,0.0
+58,Baterijų technologijos,2013-Q1,0.0
+59,Komercinis sistemos balansas (-Importas/+eksportas),2013-Q1,-1.809
+60,Elektros energijos gamyba (Neto),2013-Q2,0.854
+61,Šiluminės elektrinės,2013-Q2,0.311
+62,Kruonio HAE,2013-Q2,0.158
+63,Hidroelektrinės,2013-Q2,0.178
+64,Vėjo elektrinės,2013-Q2,0.112
+65,Kiti atsinaujinantys energijos ištekliai,2013-Q2,0.096
+66,"     Elektrinės, kūrenamos biomase    ",2013-Q2,0.057
+67,"     Elektrinės, kūrenamos biodujomis",2013-Q2,0.0
+68,     Saulės energijos elektrinės,2013-Q2,0.015
+69,     Atliekų deginimo elektrinės,2013-Q2,0.023
+70,Baterijų technologijos,2013-Q2,0.0
+71,Komercinis sistemos balansas (-Importas/+eksportas),2013-Q2,-1.846
+72,Elektros energijos gamyba (Neto),2013-Q3,1.176
+73,Šiluminės elektrinės,2013-Q3,0.766
+74,Kruonio HAE,2013-Q3,0.119
+75,Hidroelektrinės,2013-Q3,0.083
+76,Vėjo elektrinės,2013-Q3,0.108
+77,Kiti atsinaujinantys energijos ištekliai,2013-Q3,0.101
+78,"     Elektrinės, kūrenamos biomase    ",2013-Q3,0.061
+79,"     Elektrinės, kūrenamos biodujomis",2013-Q3,0.0
+80,     Saulės energijos elektrinės,2013-Q3,0.022
+81,     Atliekų deginimo elektrinės,2013-Q3,0.018
+82,Baterijų technologijos,2013-Q3,0.0
+83,Komercinis sistemos balansas (-Importas/+eksportas),2013-Q3,-1.459
+84,Elektros energijos gamyba (Neto),2013-Q4,1.127
+85,Šiluminės elektrinės,2013-Q4,0.521
+86,Kruonio HAE,2013-Q4,0.139
+87,Hidroelektrinės,2013-Q4,0.123
+88,Vėjo elektrinės,2013-Q4,0.227
+89,Kiti atsinaujinantys energijos ištekliai,2013-Q4,0.116
+90,"     Elektrinės, kūrenamos biomase    ",2013-Q4,0.077
+91,"     Elektrinės, kūrenamos biodujomis",2013-Q4,0.0
+92,     Saulės energijos elektrinės,2013-Q4,0.005
+93,     Atliekų deginimo elektrinės,2013-Q4,0.034
+94,Baterijų technologijos,2013-Q4,0.0
+95,Komercinis sistemos balansas (-Importas/+eksportas),2013-Q4,-1.832
+96,Elektros energijos gamyba (Neto),2014-Q1,1.098
+97,Šiluminės elektrinės,2014-Q1,0.497
+98,Kruonio HAE,2014-Q1,0.135
+99,Hidroelektrinės,2014-Q1,0.144
+100,Vėjo elektrinės,2014-Q1,0.217
+101,Kiti atsinaujinantys energijos ištekliai,2014-Q1,0.105
+102,"     Elektrinės, kūrenamos biomase    ",2014-Q1,0.073
+103,"     Elektrinės, kūrenamos biodujomis",2014-Q1,0.0
+104,     Saulės energijos elektrinės,2014-Q1,0.01
+105,     Atliekų deginimo elektrinės,2014-Q1,0.022
+106,Baterijų technologijos,2014-Q1,0.0
+107,Komercinis sistemos balansas (-Importas/+eksportas),2014-Q1,-1.898
+108,Elektros energijos gamyba (Neto),2014-Q2,0.76
+109,Šiluminės elektrinės,2014-Q2,0.289
+110,Kruonio HAE,2014-Q2,0.143
+111,Hidroelektrinės,2014-Q2,0.109
+112,Vėjo elektrinės,2014-Q2,0.115
+113,Kiti atsinaujinantys energijos ištekliai,2014-Q2,0.104
+114,"     Elektrinės, kūrenamos biomase    ",2014-Q2,0.056
+115,"     Elektrinės, kūrenamos biodujomis",2014-Q2,0.0
+116,     Saulės energijos elektrinės,2014-Q2,0.028
+117,     Atliekų deginimo elektrinės,2014-Q2,0.02
+118,Baterijų technologijos,2014-Q2,0.0
+119,Komercinis sistemos balansas (-Importas/+eksportas),2014-Q2,-1.932
+120,Elektros energijos gamyba (Neto),2014-Q3,1.145
+121,Šiluminės elektrinės,2014-Q3,0.696
+122,Kruonio HAE,2014-Q3,0.18
+123,Hidroelektrinės,2014-Q3,0.062
+124,Vėjo elektrinės,2014-Q3,0.119
+125,Kiti atsinaujinantys energijos ištekliai,2014-Q3,0.087
+126,"     Elektrinės, kūrenamos biomase    ",2014-Q3,0.037
+127,"     Elektrinės, kūrenamos biodujomis",2014-Q3,0.0
+128,     Saulės energijos elektrinės,2014-Q3,0.027
+129,     Atliekų deginimo elektrinės,2014-Q3,0.022
+130,Baterijų technologijos,2014-Q3,0.0
+131,Komercinis sistemos balansas (-Importas/+eksportas),2014-Q3,-1.636
+132,Elektros energijos gamyba (Neto),2014-Q4,1.052
+133,Šiluminės elektrinės,2014-Q4,0.45
+134,Kruonio HAE,2014-Q4,0.223
+135,Hidroelektrinės,2014-Q4,0.079
+136,Vėjo elektrinės,2014-Q4,0.185
+137,Kiti atsinaujinantys energijos ištekliai,2014-Q4,0.114
+138,"     Elektrinės, kūrenamos biomase    ",2014-Q4,0.081
+139,"     Elektrinės, kūrenamos biodujomis",2014-Q4,0.0
+140,     Saulės energijos elektrinės,2014-Q4,0.007
+141,     Atliekų deginimo elektrinės,2014-Q4,0.026
+142,Baterijų technologijos,2014-Q4,0.0
+143,Komercinis sistemos balansas (-Importas/+eksportas),2014-Q4,-2.157
+144,Elektros energijos gamyba (Neto),2015-Q1,1.083
+145,Šiluminės elektrinės,2015-Q1,0.467
+146,Kruonio HAE,2015-Q1,0.15
+147,Hidroelektrinės,2015-Q1,0.127
+148,Vėjo elektrinės,2015-Q1,0.217
+149,Kiti atsinaujinantys energijos ištekliai,2015-Q1,0.121
+150,"     Elektrinės, kūrenamos biomase    ",2015-Q1,0.085
+151,"     Elektrinės, kūrenamos biodujomis",2015-Q1,0.0
+152,     Saulės energijos elektrinės,2015-Q1,0.009
+153,     Atliekų deginimo elektrinės,2015-Q1,0.027
+154,Baterijų technologijos,2015-Q1,0.0
+155,Komercinis sistemos balansas (-Importas/+eksportas),2015-Q1,-1.946
+156,Elektros energijos gamyba (Neto),2015-Q2,1.151
+157,Šiluminės elektrinės,2015-Q2,0.629
+158,Kruonio HAE,2015-Q2,0.15
+159,Hidroelektrinės,2015-Q2,0.099
+160,Vėjo elektrinės,2015-Q2,0.159
+161,Kiti atsinaujinantys energijos ištekliai,2015-Q2,0.115
+162,"     Elektrinės, kūrenamos biomase    ",2015-Q2,0.064
+163,"     Elektrinės, kūrenamos biodujomis",2015-Q2,0.0
+164,     Saulės energijos elektrinės,2015-Q2,0.028
+165,     Atliekų deginimo elektrinės,2015-Q2,0.023
+166,Baterijų technologijos,2015-Q2,0.0
+167,Komercinis sistemos balansas (-Importas/+eksportas),2015-Q2,-1.621
+168,Elektros energijos gamyba (Neto),2015-Q3,1.162
+169,Šiluminės elektrinės,2015-Q3,0.687
+170,Kruonio HAE,2015-Q3,0.189
+171,Hidroelektrinės,2015-Q3,0.042
+172,Vėjo elektrinės,2015-Q3,0.136
+173,Kiti atsinaujinantys energijos ištekliai,2015-Q3,0.108
+174,"     Elektrinės, kūrenamos biomase    ",2015-Q3,0.061
+175,"     Elektrinės, kūrenamos biodujomis",2015-Q3,0.0
+176,     Saulės energijos elektrinės,2015-Q3,0.028
+177,     Atliekų deginimo elektrinės,2015-Q3,0.019
+178,Baterijų technologijos,2015-Q3,0.0
+179,Komercinis sistemos balansas (-Importas/+eksportas),2015-Q3,-1.676
+180,Elektros energijos gamyba (Neto),2015-Q4,1.203
+181,Šiluminės elektrinės,2015-Q4,0.537
+182,Kruonio HAE,2015-Q4,0.177
+183,Hidroelektrinės,2015-Q4,0.078
+184,Vėjo elektrinės,2015-Q4,0.295
+185,Kiti atsinaujinantys energijos ištekliai,2015-Q4,0.115
+186,"     Elektrinės, kūrenamos biomase    ",2015-Q4,0.085
+187,"     Elektrinės, kūrenamos biodujomis",2015-Q4,0.0
+188,     Saulės energijos elektrinės,2015-Q4,0.008
+189,     Atliekų deginimo elektrinės,2015-Q4,0.023
+190,Baterijų technologijos,2015-Q4,0.0
+191,Komercinis sistemos balansas (-Importas/+eksportas),2015-Q4,-1.965
+192,Elektros energijos gamyba (Neto),2016-Q1,1.022
+193,Šiluminės elektrinės,2016-Q1,0.337
+194,Kruonio HAE,2016-Q1,0.159
+195,Hidroelektrinės,2016-Q1,0.146
+196,Vėjo elektrinės,2016-Q1,0.268
+197,Kiti atsinaujinantys energijos ištekliai,2016-Q1,0.113
+198,"     Elektrinės, kūrenamos biomase    ",2016-Q1,0.067454
+199,"     Elektrinės, kūrenamos biodujomis",2016-Q1,0.019727
+200,     Saulės energijos elektrinės,2016-Q1,0.009
+201,     Atliekų deginimo elektrinės,2016-Q1,0.017
+202,Baterijų technologijos,2016-Q1,0.0
+203,Komercinis sistemos balansas (-Importas/+eksportas),2016-Q1,-2.21
+204,Elektros energijos gamyba (Neto),2016-Q2,0.893
+205,Šiluminės elektrinės,2016-Q2,0.329
+206,Kruonio HAE,2016-Q2,0.144
+207,Hidroelektrinės,2016-Q2,0.103
+208,Vėjo elektrinės,2016-Q2,0.21
+209,Kiti atsinaujinantys energijos ištekliai,2016-Q2,0.106
+210,"     Elektrinės, kūrenamos biomase    ",2016-Q2,0.043235
+211,"     Elektrinės, kūrenamos biodujomis",2016-Q2,0.022035
+212,     Saulės energijos elektrinės,2016-Q2,0.03
+213,     Atliekų deginimo elektrinės,2016-Q2,0.011
+214,Baterijų technologijos,2016-Q2,0.0
+215,Komercinis sistemos balansas (-Importas/+eksportas),2016-Q2,-1.96
+216,Elektros energijos gamyba (Neto),2016-Q3,0.827
+217,Šiluminės elektrinės,2016-Q3,0.293
+218,Kruonio HAE,2016-Q3,0.15
+219,Hidroelektrinės,2016-Q3,0.066
+220,Vėjo elektrinės,2016-Q3,0.212
+221,Kiti atsinaujinantys energijos ištekliai,2016-Q3,0.106
+222,"     Elektrinės, kūrenamos biomase    ",2016-Q3,0.042395
+223,"     Elektrinės, kūrenamos biodujomis",2016-Q3,0.027399
+224,     Saulės energijos elektrinės,2016-Q3,0.024
+225,     Atliekų deginimo elektrinės,2016-Q3,0.012
+226,Baterijų technologijos,2016-Q3,0.0
+227,Komercinis sistemos balansas (-Importas/+eksportas),2016-Q3,-2.086
+228,Elektros energijos gamyba (Neto),2016-Q4,1.23
+229,Šiluminės elektrinės,2016-Q4,0.425
+230,Kruonio HAE,2016-Q4,0.115
+231,Hidroelektrinės,2016-Q4,0.134
+232,Vėjo elektrinės,2016-Q4,0.441
+233,Kiti atsinaujinantys energijos ištekliai,2016-Q4,0.115
+234,"     Elektrinės, kūrenamos biomase    ",2016-Q4,0.063421
+235,"     Elektrinės, kūrenamos biodujomis",2016-Q4,0.031313
+236,     Saulės energijos elektrinės,2016-Q4,0.005
+237,     Atliekų deginimo elektrinės,2016-Q4,0.016
+238,Baterijų technologijos,2016-Q4,0.0
+239,Komercinis sistemos balansas (-Importas/+eksportas),2016-Q4,-2.018
+240,Elektros energijos gamyba (Neto),2017-Q1,0.985
+241,Šiluminės elektrinės,2017-Q1,0.221
+242,Kruonio HAE,2017-Q1,0.114
+243,Hidroelektrinės,2017-Q1,0.166
+244,Vėjo elektrinės,2017-Q1,0.348
+245,Kiti atsinaujinantys energijos ištekliai,2017-Q1,0.136
+246,"     Elektrinės, kūrenamos biomase    ",2017-Q1,0.074
+247,"     Elektrinės, kūrenamos biodujomis",2017-Q1,0.032
+248,     Saulės energijos elektrinės,2017-Q1,0.008
+249,     Atliekų deginimo elektrinės,2017-Q1,0.021
+250,Baterijų technologijos,2017-Q1,0.0
+251,Komercinis sistemos balansas (-Importas/+eksportas),2017-Q1,-2.251
+252,Elektros energijos gamyba (Neto),2017-Q2,0.913
+253,Šiluminės elektrinės,2017-Q2,0.234
+254,Kruonio HAE,2017-Q2,0.129
+255,Hidroelektrinės,2017-Q2,0.13
+256,Vėjo elektrinės,2017-Q2,0.29
+257,Kiti atsinaujinantys energijos ištekliai,2017-Q2,0.13
+258,"     Elektrinės, kūrenamos biomase    ",2017-Q2,0.054
+259,"     Elektrinės, kūrenamos biodujomis",2017-Q2,0.03
+260,     Saulės energijos elektrinės,2017-Q2,0.029
+261,     Atliekų deginimo elektrinės,2017-Q2,0.017
+262,Baterijų technologijos,2017-Q2,0.0
+263,Komercinis sistemos balansas (-Importas/+eksportas),2017-Q2,-2.002
+264,Elektros energijos gamyba (Neto),2017-Q3,0.842
+265,Šiluminės elektrinės,2017-Q3,0.17
+266,Kruonio HAE,2017-Q3,0.185
+267,Hidroelektrinės,2017-Q3,0.096
+268,Vėjo elektrinės,2017-Q3,0.27
+269,Kiti atsinaujinantys energijos ištekliai,2017-Q3,0.122
+270,"     Elektrinės, kūrenamos biomase    ",2017-Q3,0.046
+271,"     Elektrinės, kūrenamos biodujomis",2017-Q3,0.031
+272,     Saulės energijos elektrinės,2017-Q3,0.025
+273,     Atliekų deginimo elektrinės,2017-Q3,0.02
+274,Baterijų technologijos,2017-Q3,0.0
+275,Komercinis sistemos balansas (-Importas/+eksportas),2017-Q3,-2.193
+276,Elektros energijos gamyba (Neto),2017-Q4,1.126
+277,Šiluminės elektrinės,2017-Q4,0.22
+278,Kruonio HAE,2017-Q4,0.147
+279,Hidroelektrinės,2017-Q4,0.181
+280,Vėjo elektrinės,2017-Q4,0.449
+281,Kiti atsinaujinantys energijos ištekliai,2017-Q4,0.128
+282,"     Elektrinės, kūrenamos biomase    ",2017-Q4,0.071
+283,"     Elektrinės, kūrenamos biodujomis",2017-Q4,0.035
+284,     Saulės energijos elektrinės,2017-Q4,0.005
+285,     Atliekų deginimo elektrinės,2017-Q4,0.018
+286,Baterijų technologijos,2017-Q4,0.0
+287,Komercinis sistemos balansas (-Importas/+eksportas),2017-Q4,-2.231
+288,Elektros energijos gamyba (Neto),2018-Q1,0.913
+289,Šiluminės elektrinės,2018-Q1,0.187
+290,Kruonio HAE,2018-Q1,0.122
+291,Hidroelektrinės,2018-Q1,0.169
+292,Vėjo elektrinės,2018-Q1,0.296
+293,Kiti atsinaujinantys energijos ištekliai,2018-Q1,0.138
+294,"     Elektrinės, kūrenamos biomase    ",2018-Q1,0.072
+295,"     Elektrinės, kūrenamos biodujomis",2018-Q1,0.035
+296,     Saulės energijos elektrinės,2018-Q1,0.01
+297,     Atliekų deginimo elektrinės,2018-Q1,0.022
+298,Baterijų technologijos,2018-Q1,0.0
+299,Komercinis sistemos balansas (-Importas/+eksportas),2018-Q1,-2.517
+300,Elektros energijos gamyba (Neto),2018-Q2,0.779
+301,Šiluminės elektrinės,2018-Q2,0.149
+302,Kruonio HAE,2018-Q2,0.104
+303,Hidroelektrinės,2018-Q2,0.118
+304,Vėjo elektrinės,2018-Q2,0.281
+305,Kiti atsinaujinantys energijos ištekliai,2018-Q2,0.129
+306,"     Elektrinės, kūrenamos biomase    ",2018-Q2,0.048
+307,"     Elektrinės, kūrenamos biodujomis",2018-Q2,0.033
+308,     Saulės energijos elektrinės,2018-Q2,0.035
+309,     Atliekų deginimo elektrinės,2018-Q2,0.014
+310,Baterijų technologijos,2018-Q2,0.0
+311,Komercinis sistemos balansas (-Importas/+eksportas),2018-Q2,-2.157
+312,Elektros energijos gamyba (Neto),2018-Q3,0.743
+313,Šiluminės elektrinės,2018-Q3,0.163
+314,Kruonio HAE,2018-Q3,0.146
+315,Hidroelektrinės,2018-Q3,0.06
+316,Vėjo elektrinės,2018-Q3,0.245
+317,Kiti atsinaujinantys energijos ištekliai,2018-Q3,0.128
+318,"     Elektrinės, kūrenamos biomase    ",2018-Q3,0.05
+319,"     Elektrinės, kūrenamos biodujomis",2018-Q3,0.033
+320,     Saulės energijos elektrinės,2018-Q3,0.028
+321,     Atliekų deginimo elektrinės,2018-Q3,0.017
+322,Baterijų technologijos,2018-Q3,0.0
+323,Komercinis sistemos balansas (-Importas/+eksportas),2018-Q3,-2.317
+324,Elektros energijos gamyba (Neto),2018-Q4,0.785
+325,Šiluminės elektrinės,2018-Q4,0.108
+326,Kruonio HAE,2018-Q4,0.149
+327,Hidroelektrinės,2018-Q4,0.079
+328,Vėjo elektrinės,2018-Q4,0.317
+329,Kiti atsinaujinantys energijos ištekliai,2018-Q4,0.132
+330,"     Elektrinės, kūrenamos biomase    ",2018-Q4,0.07
+331,"     Elektrinės, kūrenamos biodujomis",2018-Q4,0.036
+332,     Saulės energijos elektrinės,2018-Q4,0.007
+333,     Atliekų deginimo elektrinės,2018-Q4,0.019
+334,Baterijų technologijos,2018-Q4,0.0
+335,Komercinis sistemos balansas (-Importas/+eksportas),2018-Q4,-2.642
+336,Elektros energijos gamyba (Neto),2019-Q1,0.992
+337,Šiluminės elektrinės,2019-Q1,0.179
+338,Kruonio HAE,2019-Q1,0.069
+339,Hidroelektrinės,2019-Q1,0.14
+340,Vėjo elektrinės,2019-Q1,0.464
+341,Kiti atsinaujinantys energijos ištekliai,2019-Q1,0.141
+342,"     Elektrinės, kūrenamos biomase    ",2019-Q1,0.077
+343,"     Elektrinės, kūrenamos biodujomis",2019-Q1,0.035
+344,     Saulės energijos elektrinės,2019-Q1,0.009
+345,     Atliekų deginimo elektrinės,2019-Q1,0.02
+346,Baterijų technologijos,2019-Q1,0.0
+347,Komercinis sistemos balansas (-Importas/+eksportas),2019-Q1,-2.333
+348,Elektros energijos gamyba (Neto),2019-Q2,0.798
+349,Šiluminės elektrinės,2019-Q2,0.174
+350,Kruonio HAE,2019-Q2,0.124
+351,Hidroelektrinės,2019-Q2,0.08
+352,Vėjo elektrinės,2019-Q2,0.295
+353,Kiti atsinaujinantys energijos ištekliai,2019-Q2,0.125
+354,"     Elektrinės, kūrenamos biomase    ",2019-Q2,0.039
+355,"     Elektrinės, kūrenamos biodujomis",2019-Q2,0.034
+356,     Saulės energijos elektrinės,2019-Q2,0.037
+357,     Atliekų deginimo elektrinės,2019-Q2,0.014
+358,Baterijų technologijos,2019-Q2,0.0
+359,Komercinis sistemos balansas (-Importas/+eksportas),2019-Q2,-2.245
+360,Elektros energijos gamyba (Neto),2019-Q3,0.888
+361,Šiluminės elektrinės,2019-Q3,0.181
+362,Kruonio HAE,2019-Q3,0.266
+363,Hidroelektrinės,2019-Q3,0.044
+364,Vėjo elektrinės,2019-Q3,0.265
+365,Kiti atsinaujinantys energijos ištekliai,2019-Q3,0.132
+366,"     Elektrinės, kūrenamos biomase    ",2019-Q3,0.047
+367,"     Elektrinės, kūrenamos biodujomis",2019-Q3,0.036
+368,     Saulės energijos elektrinės,2019-Q3,0.031
+369,     Atliekų deginimo elektrinės,2019-Q3,0.018
+370,Baterijų technologijos,2019-Q3,0.0
+371,Komercinis sistemos balansas (-Importas/+eksportas),2019-Q3,-2.344
+372,Elektros energijos gamyba (Neto),2019-Q4,0.961
+373,Šiluminės elektrinės,2019-Q4,0.192
+374,Kruonio HAE,2019-Q4,0.124
+375,Hidroelektrinės,2019-Q4,0.078
+376,Vėjo elektrinės,2019-Q4,0.429
+377,Kiti atsinaujinantys energijos ištekliai,2019-Q4,0.137
+378,"     Elektrinės, kūrenamos biomase    ",2019-Q4,0.07
+379,"     Elektrinės, kūrenamos biodujomis",2019-Q4,0.04
+380,     Saulės energijos elektrinės,2019-Q4,0.006
+381,     Atliekų deginimo elektrinės,2019-Q4,0.021
+382,Baterijų technologijos,2019-Q4,0.0
+383,Komercinis sistemos balansas (-Importas/+eksportas),2019-Q4,-2.421
+384,Elektros energijos gamyba (Neto),2020-Q1,1.206
+385,Šiluminės elektrinės,2020-Q1,0.233
+386,Kruonio HAE,2020-Q1,0.193
+387,Hidroelektrinės,2020-Q1,0.116
+388,Vėjo elektrinės,2020-Q1,0.517
+389,Kiti atsinaujinantys energijos ištekliai,2020-Q1,0.147
+390,"     Elektrinės, kūrenamos biomase    ",2020-Q1,0.077
+391,"     Elektrinės, kūrenamos biodujomis",2020-Q1,0.038
+392,     Saulės energijos elektrinės,2020-Q1,0.013
+393,     Atliekų deginimo elektrinės,2020-Q1,0.019
+394,Baterijų technologijos,2020-Q1,0.0
+395,Komercinis sistemos balansas (-Importas/+eksportas),2020-Q1,-2.237
+396,Elektros energijos gamyba (Neto),2020-Q2,1.153
+397,Šiluminės elektrinės,2020-Q2,0.435
+398,Kruonio HAE,2020-Q2,0.163
+399,Hidroelektrinės,2020-Q2,0.075
+400,Vėjo elektrinės,2020-Q2,0.325
+401,Kiti atsinaujinantys energijos ištekliai,2020-Q2,0.155
+402,"     Elektrinės, kūrenamos biomase    ",2020-Q2,0.055
+403,"     Elektrinės, kūrenamos biodujomis",2020-Q2,0.037
+404,     Saulės energijos elektrinės,2020-Q2,0.044
+405,     Atliekų deginimo elektrinės,2020-Q2,0.019
+406,Baterijų technologijos,2020-Q2,0.0
+407,Komercinis sistemos balansas (-Importas/+eksportas),2020-Q2,-1.795
+408,Elektros energijos gamyba (Neto),2020-Q3,1.428
+409,Šiluminės elektrinės,2020-Q3,0.752
+410,Kruonio HAE,2020-Q3,0.218
+411,Hidroelektrinės,2020-Q3,0.044
+412,Vėjo elektrinės,2020-Q3,0.268
+413,Kiti atsinaujinantys energijos ištekliai,2020-Q3,0.147
+414,"     Elektrinės, kūrenamos biomase    ",2020-Q3,0.051
+415,"     Elektrinės, kūrenamos biodujomis",2020-Q3,0.035
+416,     Saulės energijos elektrinės,2020-Q3,0.044
+417,     Atliekų deginimo elektrinės,2020-Q3,0.017
+418,Baterijų technologijos,2020-Q3,0.0
+419,Komercinis sistemos balansas (-Importas/+eksportas),2020-Q3,-1.723
+420,Elektros energijos gamyba (Neto),2020-Q4,1.355
+421,Šiluminės elektrinės,2020-Q4,0.529
+422,Kruonio HAE,2020-Q4,0.194
+423,Hidroelektrinės,2020-Q4,0.062
+424,Vėjo elektrinės,2020-Q4,0.435
+425,Kiti atsinaujinantys energijos ištekliai,2020-Q4,0.136
+426,"     Elektrinės, kūrenamos biomase    ",2020-Q4,0.068
+427,"     Elektrinės, kūrenamos biodujomis",2020-Q4,0.04
+428,     Saulės energijos elektrinės,2020-Q4,0.007
+429,     Atliekų deginimo elektrinės,2020-Q4,0.02
+430,Baterijų technologijos,2020-Q4,0.0
+431,Komercinis sistemos balansas (-Importas/+eksportas),2020-Q4,-2.153
+432,Elektros energijos gamyba (Neto),2021-Q1,1.194
+433,Šiluminės elektrinės,2021-Q1,0.461
+434,Kruonio HAE,2021-Q1,0.178
+435,Hidroelektrinės,2021-Q1,0.105
+436,Vėjo elektrinės,2021-Q1,0.333
+437,Kiti atsinaujinantys energijos ištekliai,2021-Q1,0.116
+438,"     Elektrinės, kūrenamos biomase    ",2021-Q1,0.043
+439,"     Elektrinės, kūrenamos biodujomis",2021-Q1,0.037
+440,     Saulės energijos elektrinės,2021-Q1,0.015
+441,     Atliekų deginimo elektrinės,2021-Q1,0.022
+442,Baterijų technologijos,2021-Q1,0.0
+443,Komercinis sistemos balansas (-Importas/+eksportas),2021-Q1,-2.426
+444,Elektros energijos gamyba (Neto),2021-Q2,1.165
+445,Šiluminės elektrinės,2021-Q2,0.448
+446,Kruonio HAE,2021-Q2,0.171
+447,Hidroelektrinės,2021-Q2,0.104
+448,Vėjo elektrinės,2021-Q2,0.292
+449,Kiti atsinaujinantys energijos ištekliai,2021-Q2,0.15
+450,"     Elektrinės, kūrenamos biomase    ",2021-Q2,0.036
+451,"     Elektrinės, kūrenamos biodujomis",2021-Q2,0.038
+452,     Saulės energijos elektrinės,2021-Q2,0.062
+453,     Atliekų deginimo elektrinės,2021-Q2,0.014
+454,Baterijų technologijos,2021-Q2,0.0
+455,Komercinis sistemos balansas (-Importas/+eksportas),2021-Q2,-2.008
+456,Elektros energijos gamyba (Neto),2021-Q3,1.095
+457,Šiluminės elektrinės,2021-Q3,0.486
+458,Kruonio HAE,2021-Q3,0.132
+459,Hidroelektrinės,2021-Q3,0.067
+460,Vėjo elektrinės,2021-Q3,0.268
+461,Kiti atsinaujinantys energijos ištekliai,2021-Q3,0.142
+462,"     Elektrinės, kūrenamos biomase    ",2021-Q3,0.022
+463,"     Elektrinės, kūrenamos biodujomis",2021-Q3,0.038
+464,     Saulės energijos elektrinės,2021-Q3,0.063
+465,     Atliekų deginimo elektrinės,2021-Q3,0.019
+466,Baterijų technologijos,2021-Q3,0.0
+467,Komercinis sistemos balansas (-Importas/+eksportas),2021-Q3,-2.086
+468,Elektros energijos gamyba (Neto),2021-Q4,1.239
+469,Šiluminės elektrinės,2021-Q4,0.326
+470,Kruonio HAE,2021-Q4,0.218
+471,Hidroelektrinės,2021-Q4,0.104
+472,Vėjo elektrinės,2021-Q4,0.463
+473,Kiti atsinaujinantys energijos ištekliai,2021-Q4,0.128
+474,"     Elektrinės, kūrenamos biomase    ",2021-Q4,0.054
+475,"     Elektrinės, kūrenamos biodujomis",2021-Q4,0.037
+476,     Saulės energijos elektrinės,2021-Q4,0.018
+477,     Atliekų deginimo elektrinės,2021-Q4,0.019
+478,Baterijų technologijos,2021-Q4,0.0
+479,Komercinis sistemos balansas (-Importas/+eksportas),2021-Q4,-2.524
+480,Elektros energijos gamyba (Neto),2022-Q1,1.273
+481,Šiluminės elektrinės,2022-Q1,0.285
+482,Kruonio HAE,2022-Q1,0.17
+483,Hidroelektrinės,2022-Q1,0.173
+484,Vėjo elektrinės,2022-Q1,0.514
+485,Kiti atsinaujinantys energijos ištekliai,2022-Q1,0.131
+486,"     Elektrinės, kūrenamos biomase    ",2022-Q1,0.044
+487,"     Elektrinės, kūrenamos biodujomis",2022-Q1,0.037
+488,     Saulės energijos elektrinės,2022-Q1,0.036
+489,     Atliekų deginimo elektrinės,2022-Q1,0.014
+490,Baterijų technologijos,2022-Q1,0.0
+491,Komercinis sistemos balansas (-Importas/+eksportas),2022-Q1,-2.367
+492,Elektros energijos gamyba (Neto),2022-Q2,0.96
+493,Šiluminės elektrinės,2022-Q2,0.199
+494,Kruonio HAE,2022-Q2,0.111
+495,Hidroelektrinės,2022-Q2,0.128
+496,Vėjo elektrinės,2022-Q2,0.348
+497,Kiti atsinaujinantys energijos ištekliai,2022-Q2,0.174
+498,"     Elektrinės, kūrenamos biomase    ",2022-Q2,0.028
+499,"     Elektrinės, kūrenamos biodujomis",2022-Q2,0.033
+500,     Saulės energijos elektrinės,2022-Q2,0.099
+501,     Atliekų deginimo elektrinės,2022-Q2,0.014
+502,Baterijų technologijos,2022-Q2,0.0
+503,Komercinis sistemos balansas (-Importas/+eksportas),2022-Q2,-2.056
+504,Elektros energijos gamyba (Neto),2022-Q3,0.962
+505,Šiluminės elektrinės,2022-Q3,0.345
+506,Kruonio HAE,2022-Q3,0.105
+507,Hidroelektrinės,2022-Q3,0.077
+508,Vėjo elektrinės,2022-Q3,0.27
+509,Kiti atsinaujinantys energijos ištekliai,2022-Q3,0.165
+510,"     Elektrinės, kūrenamos biomase    ",2022-Q3,0.024
+511,"     Elektrinės, kūrenamos biodujomis",2022-Q3,0.024
+512,     Saulės energijos elektrinės,2022-Q3,0.117
+513,     Atliekų deginimo elektrinės,2022-Q3,0.0
+514,Baterijų technologijos,2022-Q3,0.0
+515,Komercinis sistemos balansas (-Importas/+eksportas),2022-Q3,-1.987
+516,Elektros energijos gamyba (Neto),2022-Q4,1.055
+517,Šiluminės elektrinės,2022-Q4,0.332
+518,Kruonio HAE,2022-Q4,0.158
+519,Hidroelektrinės,2022-Q4,0.079
+520,Vėjo elektrinės,2022-Q4,0.381
+521,Kiti atsinaujinantys energijos ištekliai,2022-Q4,0.105
+522,"     Elektrinės, kūrenamos biomase    ",2022-Q4,0.044
+523,"     Elektrinės, kūrenamos biodujomis",2022-Q4,0.04
+524,     Saulės energijos elektrinės,2022-Q4,0.021
+525,     Atliekų deginimo elektrinės,2022-Q4,0.0
+526,Baterijų technologijos,2022-Q4,0.0
+527,Komercinis sistemos balansas (-Importas/+eksportas),2022-Q4,-2.158
+528,Elektros energijos gamyba (Neto),2023-Q1,1.373
+529,Šiluminės elektrinės,2023-Q1,0.267
+530,Kruonio HAE,2023-Q1,0.146
+531,Hidroelektrinės,2023-Q1,0.185
+532,Vėjo elektrinės,2023-Q1,0.654
+533,Kiti atsinaujinantys energijos ištekliai,2023-Q1,0.121
+534,"     Elektrinės, kūrenamos biomase    ",2023-Q1,0.042
+535,"     Elektrinės, kūrenamos biodujomis",2023-Q1,0.035
+536,     Saulės energijos elektrinės,2023-Q1,0.044
+537,     Atliekų deginimo elektrinės,2023-Q1,0.0
+538,Baterijų technologijos,2023-Q1,0.0
+539,Komercinis sistemos balansas (-Importas/+eksportas),2023-Q1,-1.976
+540,Elektros energijos gamyba (Neto),2023-Q2,1.202
+541,Šiluminės elektrinės,2023-Q2,0.272
+542,Kruonio HAE,2023-Q2,0.105
+543,Hidroelektrinės,2023-Q2,0.113
+544,Vėjo elektrinės,2023-Q2,0.395
+545,Kiti atsinaujinantys energijos ištekliai,2023-Q2,0.317
+546,"     Elektrinės, kūrenamos biomase    ",2023-Q2,0.023
+547,"     Elektrinės, kūrenamos biodujomis",2023-Q2,0.025
+548,     Saulės energijos elektrinės,2023-Q2,0.268
+549,     Atliekų deginimo elektrinės,2023-Q2,0.0
+550,Baterijų technologijos,2023-Q2,0.0
+551,Komercinis sistemos balansas (-Importas/+eksportas),2023-Q2,-1.657
+552,Elektros energijos gamyba (Neto),2023-Q3,1.341
+553,Šiluminės elektrinės,2023-Q3,0.327
+554,Kruonio HAE,2023-Q3,0.125
+555,Hidroelektrinės,2023-Q3,0.054
+556,Vėjo elektrinės,2023-Q3,0.521
+557,Kiti atsinaujinantys energijos ištekliai,2023-Q3,0.314
+558,"     Elektrinės, kūrenamos biomase    ",2023-Q3,0.022
+559,"     Elektrinės, kūrenamos biodujomis",2023-Q3,0.019
+560,     Saulės energijos elektrinės,2023-Q3,0.273
+561,     Atliekų deginimo elektrinės,2023-Q3,0.0
+562,Baterijų technologijos,2023-Q3,0.001
+563,Komercinis sistemos balansas (-Importas/+eksportas),2023-Q3,-1.55
+564,Elektros energijos gamyba (Neto),2023-Q4,1.749
+565,Šiluminės elektrinės,2023-Q4,0.445
+566,Kruonio HAE,2023-Q4,0.143
+567,Hidroelektrinės,2023-Q4,0.095
+568,Vėjo elektrinės,2023-Q4,0.954
+569,Kiti atsinaujinantys energijos ištekliai,2023-Q4,0.108
+570,"     Elektrinės, kūrenamos biomase    ",2023-Q4,0.036
+571,"     Elektrinės, kūrenamos biodujomis",2023-Q4,0.024
+572,     Saulės energijos elektrinės,2023-Q4,0.048
+573,     Atliekų deginimo elektrinės,2023-Q4,0.0
+574,Baterijų technologijos,2023-Q4,0.003
+575,Komercinis sistemos balansas (-Importas/+eksportas),2023-Q4,-1.747
